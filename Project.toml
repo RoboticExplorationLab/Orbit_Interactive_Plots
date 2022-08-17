@@ -10,4 +10,4 @@ SatelliteDynamics = "0e7c1a32-1b9f-5532-88a4-e668712d6a4c"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 
 [compat]
-julia = "1.6.5"
+julia = "=1.6.5"

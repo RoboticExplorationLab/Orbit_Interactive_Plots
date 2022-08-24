@@ -24,4 +24,4 @@ These are the following dependencies installed on the local environment. If ther
 - LinearAlgebra
 
 ### Run 
-Run the using_Makie-v5.ipynb file on jupyter labs
+Run the using_Makie-v5.ipynb file on jupyter labs for the interactive orbit constellation on Makie. 
